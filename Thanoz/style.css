@@ -1,0 +1,207 @@
+body {
+    background-image: url('img/hero-bg.png'); /* Added background image */
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.logo {
+    width: 100px; /* Adjust size as needed */
+    height: auto; /* Maintain aspect ratio */
+}
+.group {
+    left: 629px;
+    gap: 0px;
+    opacity: 0px;
+}
+.lop {
+    width: 181px;
+    height: 296px;
+    top: 373px;
+    left: 629px;
+    gap: 0px;
+    opacity: 0px;
+    
+}
+
+.flex-container1 {
+    width: 588px;
+height: 136px;
+top: 591px;
+left: 426px;
+gap: 0px;
+border-radius: 20px 0px 0px 0px;
+opacity: 0px;
+
+}
+header {
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header h1 {
+    font-size: 2em;
+    margin: 0;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav li {
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration:#000cf5,#10eefe,#5F6FFF ;
+    color: rgb(255, 255, 255);
+}
+.button1 {
+    font-family: Londrina Solid;
+font-size: 24px;
+font-weight: 300;
+color: #FFFFFF;
+line-height: 50px;
+text-align: center;
+background: linear-gradient(90deg, #5F6FFF 0%, #7E43FC 100%);
+    width: 250px;
+    height: 60px;
+    top: 299px;
+    left: 462px;
+    gap: 0px;
+    border-radius: 20px 20px 20px 20px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    box-shadow: 0px 0px 20px 0px #5F6FFF;
+    white-space: 10;
+}
+
+.button2 {
+    background: linear-gradient(90deg, #5F6FFF 0%, #7E43FC 100%);
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    border: 1px solid #FFFFFF
+
+}
+
+main {
+    padding: 20px;
+}
+
+.hero {
+    text-align: center;
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+.hero h2 {
+    font-family: Londrina Solid;
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 70.98px;
+    text-align: center;
+    
+}
+
+.hero h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+    color: #10eefe;
+}
+
+.hero h2  {
+    font-family: Londrina Solid;
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 70.98px;
+    text-align: center;
+    
+}
+
+.hero p {
+    font-family: Londrina Solid;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 28.39px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+}
+
+.button {
+    font-family: Londrina Solid;
+font-size: 24px;
+font-weight: 300;
+color: #FFFFFF;
+line-height: 50px;
+text-align: center;
+    background: linear-gradient(90deg, #F25FFF 0%, #7E43FC 100%);
+    width: 250px;
+    height: 60px;
+    top: 299px;
+    left: 462px;
+    gap: 0px;
+    border-radius: 20px 20px 20px 20px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    box-shadow: 0px 0px 20px 0px #F25FFF;
+
+}
+
+.contract {
+    text-align: center;
+}
+
+.contract h2 {
+    font-size: 1.5em;
+    color: #FFFFFF;
+    margin-bottom: 10px;
+}
+
+
+.info {
+    text-align: center;
+    
+}
+
+.info h2 {
+    font-size: 1.5em;
+    color: #FFFFFF;
+    margin-bottom: 10px;
+}
+
+.flex-container{
+        text-align: center;
+}
+.flex-container {
+    text-align: center;
+    border-radius: 20px 20px 20px 20px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    background: #BA9AFF;
+    background-position: center;
+    text-align: center;
+    
+}
+
+.flex-box{
+    border: 1px solid #FFFFFF;
+    background-position: center;
+    text-align: center;
+}
+
+
+footer {
+    padding: 20px;
+    text-align: center;
+}
